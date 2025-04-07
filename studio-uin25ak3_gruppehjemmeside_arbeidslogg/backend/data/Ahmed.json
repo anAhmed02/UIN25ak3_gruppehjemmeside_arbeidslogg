@@ -1,0 +1,14 @@
+[
+    {
+      "id": "Ahmed",
+      "navn": "Ahmed Ahmed",
+      "epost": "anahmed@hiof.no",
+      "bilde": "",
+      "bio": "",
+      "interesser": ["Trening", "gaming", "serie"],
+      "arbeidslogg": [
+        { "dato": "2025-04-07", "navn": "Ahmed Ahmed", "oppgave": "Oppgave #2: ", "timer": 2 },
+        { "dato": "2025-04-07", "navn": "Ahmed Ahmed", "oppgave": "Oppgave #4: ", "timer": 1 }
+      ]
+    }
+  ]

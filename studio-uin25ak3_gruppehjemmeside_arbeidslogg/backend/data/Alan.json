@@ -1,0 +1,14 @@
+[
+    {
+      "id": "Alan",
+      "navn": "Alan Grigucevicius",
+      "epost": "alang@hiof.no",
+      "bilde": "",
+      "bio": "",
+      "interesser": ["Fotball", "Paddeltennis", "Volleyball"],
+      "arbeidslogg": [
+        { "dato": "2025-04-07", "navn": "Alan Grigucevicius", "oppgave": "Oppgave #1: ", "timer": 2 },
+        { "dato": "2025-04-07", "navn": "Alan Grigucevicius", "oppgave": "Oppgave #3: ", "timer": 1 }
+      ]
+    }
+  ]
